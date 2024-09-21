@@ -8,7 +8,7 @@ A browser extension that allows users to translate web pages into different lang
   
 ![Screenshot -3](https://github.com/user-attachments/assets/c7ca5355-ae8c-450f-bc7d-de09ae61f462)
 
-# Before page
+# Before
 ![Screenshot-2](https://github.com/user-attachments/assets/7c383c96-8354-4d2d-845c-ec6c17aa4677)
 # After Translate in French
 ![Screenshot-1](https://github.com/user-attachments/assets/49508747-2bb0-4c13-a9c7-8d10575e5377)
